@@ -7,7 +7,7 @@ using MvcMovie.Models;
 
 namespace MvcMovie
 {
-    public static class AuthConfig
+    public static class AuthConfig sfsdaf
     {
         public static void RegisterAuth()
         {
